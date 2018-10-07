@@ -1,31 +1,17 @@
-# This is a large heading
+# Hylton Socher
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in New York City and Westport, Connceticut
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Lord of the Rings* by Tolkien
+- *The Stand* by Stephen King
+- *The Crucible* by Arthur Miller
 
-```
-This is
-a block
-of code
-```
+### Contact
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-I added this line to README.txt on the update-readme branch.
-Adding yet another line to READMe.md
-Now we are cooking.
+You can reach me at hyltonsocher@gmail.com
