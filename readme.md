@@ -2,7 +2,7 @@
 
 ### Geography
 
-I live in New York City and Westport, Connecicut
+I live in New York City and Westport, Connecticut
 
 ### Reading
 
