@@ -15,3 +15,4 @@ Three of my favorite books are:
 ### Contact
 
 You can reach me at hyltonsocher@gmail.com
+or another possibility is hylton@varaquest.com
