@@ -2,4 +2,4 @@
 
 ### Contact
 
-You can reach me at hyltonsocher@gmail.com or hylton@varaquest.com
+You can reach me at hylton@varaquest.com or hyltonsocher@gmail.com
